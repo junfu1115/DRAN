@@ -1,7 +1,6 @@
 # Scene Segmentation with Dual Relation-aware Attention Network (TNNLS2020)
 
-Our DRANet achieves 82.9% on Cityscapes test set (submit the result on August, 2019), which a new state-of-the-arts performance with only fine annotated dataset.
-The testing code are released in [DANet](https://github.com/junfu1115/DANet).
+Our  DRANet achieves [**82.9%**](https://www.cityscapes-dataset.com/method-details/?submissionID=4792) on Cityscapes test set (submit the result on August, 2019), which is a new state-of-the-arts performance with only using fine annotated dataset. 
 
 The training code will be released in few days!
 
